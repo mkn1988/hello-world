@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1477993724148
+Build-Jdk: 1.8.0_111
+Built-By: Max
+Bundle-Activator: com.beddytear.projects.helloworld.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: helloworld
+Bundle-SymbolicName: com.beddytear.projects.helloworld
+Bundle-Version: 0.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.beddytear.projects.helloworld;version="0.1.0"
+Import-Package: com.beddytear.projects.helloworld
+Tool: Bnd-3.2.0.201605172007
