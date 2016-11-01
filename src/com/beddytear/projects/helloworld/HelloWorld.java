@@ -2,8 +2,12 @@ package com.beddytear.projects.helloworld;
 
 public class HelloWorld {
 
-	public static void main(String[] args) {
-		System.out.println("Hello awesome world!");
+	public void start(){
+		System.out.println("Hello world!");
+	}
+	
+	public void stop(){
+		System.out.println("Goodbye world!");
 	}
 
 }
